@@ -1,0 +1,22 @@
+{
+  "Python": 13.42,
+  "C": 11.56,
+  "C++": 10.80,
+  "Java": 13.50,
+  "C#": 6.87,
+  "JavaScript": 3.11,
+  "Visual Basic": 2.90,
+  "SQL": 1.48,
+  "PHP": 1.41,
+  "MATLAB": 1.26,
+  "Fortran": 1.25,
+  "Scratch": 1.07,
+  "Go": 1.07,
+  "Assembly language": 1.01,
+  "Delphi/Object Pascal": 0.98,
+  "Ruby": 0.91,
+  "Rust": 0.89,
+  "Swift": 0.88,
+  "R": 0.87,
+  "COBOL": 0.86
+}
